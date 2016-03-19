@@ -2,13 +2,13 @@
     font-family: "JosefinSans-Bold";
     font-style: normal;
     font-weight: normal;
-    src: url("fonts/JosefinSans-Bold.ttf") format("truetype");
+    src: url("../fonts/JosefinSans-Bold.ttf") format("truetype");
 }
 @font-face {
     font-family: "JosefinSans-SemiBold";
     font-style: normal;
     font-weight: normal;
-    src: url("fonts/JosefinSans-SemiBold.ttf") format("truetype");
+    src: url("../fonts/JosefinSans-SemiBold.ttf") format("truetype");
 }
 
 html
@@ -92,6 +92,7 @@ body
 	bottom: 35px;
 	color: rgba(255, 255, 255, 1);
 	z-index: 3;
+	font-size: 10px;
 }
 
 .background-overlay
