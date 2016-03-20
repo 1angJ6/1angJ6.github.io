@@ -114,6 +114,22 @@ body
 	color: black;
 }
 
+.setup
+{
+	position: absolute;
+	left: 5%;
+	bottom: 35px;
+	color: rgba(255, 255, 255, 1);
+	z-index: 3;
+	font-size: 20px;
+}
+.setup a
+{
+	text-decoration: none;
+	color: rgba(255, 255, 255, 1);
+	font-size: 20px;
+}
+
 .buttom
 {
 	position: absolute;
