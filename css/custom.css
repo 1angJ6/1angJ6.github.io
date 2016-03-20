@@ -142,6 +142,12 @@ section
 	text-align: center;
 }
 
+section hr
+{
+	border-width: 2px;
+	border-color: rgba(0, 0, 0, 0.2);
+}
+
 .basicInfo
 {
 	width: 100%;
