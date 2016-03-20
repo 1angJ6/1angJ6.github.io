@@ -136,7 +136,10 @@ body
 
 section
 {
-	/*height: 50%;*/
+	margin-top: 50px;
+	font-family: JosefinSans-Bold;
+	font-size: 35px;
+	text-align: center;
 }
 
 .basicInfo
